@@ -15,4 +15,4 @@
 | Задание №7 | [task_07_gen.php](https://github.com/merlan00/Php.Afaunov/edit/main/КТ2/task_7_gen.php) | [task_05 скриншот.png](https://github.com/merlan00/Php.Afaunov/blob/main/КТ2/task_5%20скриншот.png) |
 
 | Задание №7 | [task_07.php](https://github.com/merlan00/Php.Afaunov/blob/main/КТ2/CAPTCHA1.php) | [task_04 скриншот.png](https://github.com/merlan00/Php.Afaunov/blob/main/КТ2/task_4%20скриншот.png) |
-| Задание №7 | [task_07_gen.php](https://github.com/merlan00/Php.Afaunov/edit/main/КТ2/task_7_gen.php) | [task_05 скриншот.png](https://github.com/merlan00/Php.Afaunov/blob/main/КТ2/task_5%20скриншот.png) |
+| Задание №7 | [task_07_gen.php](https://github.com/merlan00/Php.Afaunov/blob/main/КТ2/CAPTCHA2.php) | [task_05 скриншот.png](https://github.com/merlan00/Php.Afaunov/blob/main/КТ2/task_5%20скриншот.png) |
